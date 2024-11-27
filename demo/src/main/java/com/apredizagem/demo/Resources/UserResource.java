@@ -1,4 +1,4 @@
-package com.apredizagem.demo.Resources;
+package com.apredizagem.demo.resources;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
